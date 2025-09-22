@@ -1,1 +1,17 @@
+# 🎠 Pure CSS Carousel
 
+Bu proje, yalnızca **CSS** kullanarak yapılmış basit bir carousel (slider) örneğidir.  
+JavaScript kullanılmadan, modern CSS özellikleri ile slayt geçişleri ve gezinme sağlanmıştır.  
+
+## ✨ Özellikler
+- Sadece **HTML + CSS**
+- `:checked` / `:target` seçicileri ile slayt kontrolü  
+- `transition` ve `transform` ile geçiş efektleri  
+- Responsive (ekran boyutuna uyumlu) tasarım  
+- Ekstra kütüphane veya framework gerektirmez  
+
+Bu proje kapsamında CSS’in şu özellikleri denendi:
+:checked ve :target seçicileri
+scroll-snap
+transition ve transform ile animasyonlar
+Responsive tasarım mantığı
